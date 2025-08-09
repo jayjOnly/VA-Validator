@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: nessus_validator
+Version: 0.1.0
+Summary: Tool for validating Nessus vulnerability findings
+Author: Security Engineer
+Requires-Dist: click
+Requires-Dist: pandas
+Requires-Dist: colorama
+Requires-Dist: python-nmap
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary

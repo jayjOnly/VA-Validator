@@ -1,0 +1,4 @@
+click
+pandas
+colorama
+python-nmap

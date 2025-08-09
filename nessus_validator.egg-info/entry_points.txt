@@ -1,0 +1,2 @@
+[console_scripts]
+nessus-validator = nessus_validator.cli:main
